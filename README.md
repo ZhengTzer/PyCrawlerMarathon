@@ -5,4 +5,5 @@ Day 002 - 實作：Python 下載CSV檔案與解析
 Day 003 - 實作：Python 下載XML檔案與解析  
 Day 004 - HTTP Server-Client 架構說明與 利用 Python 存取 API  
 Day 005 - 實作 Day：API 資料串接 - 基本 API + JSON  
-Day 006 - 
+Day 006 - 實作 Day：API 資料串接 - Headers  
+Day 007 -  
