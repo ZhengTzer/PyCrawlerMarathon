@@ -7,4 +7,5 @@ Day 004 - HTTP Server-Client 架構說明與 利用 Python 存取 API
 Day 005 - 實作 Day：API 資料串接 - 基本 API + JSON  
 Day 006 - 實作 Day：API 資料串接 - Headers  
 Day 007 - HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript  
-Day 008 -  
+Day 008 - 靜態網頁的資料爬蟲策略  
+Day 009 -  
