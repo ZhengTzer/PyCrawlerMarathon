@@ -10,4 +10,9 @@ Day 007 - HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript
 Day 008 - 靜態網頁的資料爬蟲策略  
 Day 009 - 圖片下載  
 Day 010 - PyQuery/grab  
-Day 011 -  
+Day 011 - Regular expression  
+Day 012 -  
+Day 013 -  
+Day 014 -  
+Day 015 -  
+Day 016 -  
