@@ -15,4 +15,5 @@ Day 012 - 實作 Day：ETTODAY 靜態爬蟲實作練習
 Day 013 - 實作 Day：PTT(批踢踢)網路爬蟲實作練習  
 Day 014 - 實作 Day：Yahoo! 電影網頁爬蟲實作練習  
 Day 015 - 實作 Day：金融資訊網頁爬蟲實作練習  
-Day 016 -  
+Day 016 - 實作 Day：Wiki的爬蟲實作練習  
+Day 017 - 
